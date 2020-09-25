@@ -12,7 +12,7 @@ else:
     print("Invalid amount of arguments.")
     print("Syntax: python3 scanner.py <ip>")
     sys.exit()
-#Best banner ever
+
 print("-"*50)
 print('/'*50)
 print("Scanning target "+target)
